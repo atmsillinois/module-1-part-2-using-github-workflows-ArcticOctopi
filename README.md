@@ -1,7 +1,4 @@
-# Create a README.md
+# Windspeed Conversion
 
-If you need help with `Markdown`, check out [The Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)!
+This is a short script to allow the user to convert between knots and meters per second..
 
-What should a good README.md look like? Check out these [guidelines](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
-
-Did you add an open source software license?
